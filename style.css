@@ -1,0 +1,30 @@
+h2
+{
+	color:blue;
+	font-size:40px;
+	background-color: yellow;
+}
+
+h1
+{
+	color:red;
+	font-size:20px;
+	border-left-color:green;
+
+}
+
+div{
+	color:yellow;
+	background-color: black;
+}
+
+.abc{
+	color:orange;
+	font-size:40px;
+	
+}
+
+.bar{
+	color:red;
+
+}
